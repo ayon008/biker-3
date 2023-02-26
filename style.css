@@ -1,0 +1,26 @@
+.login {
+    background-color: #E76F51;
+    padding: 10px auto;
+}
+
+footer {
+    background-color: #0B0D17;
+}
+
+footer ul {
+    gap: 20px;
+}
+
+footer img {
+    width: 135px;
+    height: 40px;
+}
+
+.last-pic {
+    gap: 10px;
+}
+
+.ayon {
+    background: rgba(231, 111, 81, 0.1);
+    border-radius: 5px;
+}
